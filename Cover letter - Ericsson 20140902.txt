@@ -1,0 +1,114 @@
+2nd September 2014
+
+Ericsson
+
+Re: Junior Software Developer Position
+
+I decided to enter the engineering profession because I firmly believe the most positive way to impact our world is to build.
+This is because I am a firm believer that the surest way to positively impact our world is the creation of new technologies.
+What keeps increasing this world's interconnectivity is the work of firms like yours, and the work of corporations like your push us into the future. 
+I believe that my 
+programming and scripting skills and
+experience developing for embedded systems
+make me a good fit for this position.
+
+%Proficiency in C/C++ development for embedded systems;
+During my first co-op work term at UBC, I was tasked with the development of a mini-MRI control system using an Arduino, which communicated with a PC.
+The Arduino program was coded in C++, and the PC ran a program written in Python, which had a GUI component, processed data collected by the 
+micro-controller, and graphed it on the PC's monitor as the data streamed in.
+%Proficiency in using compilers, linkers, emulators, debugging tools and revision control tools;
+Throughout my coding experience, I have had to use different methods of compiling an executable program. 
+In my schoolwork, I used Visual Studio; during my work at UBC, I used GNU Make and during my work at Epic 3D, I used CMake.
+I've also used Git for version control.
+%Experience with scripting languages such as Python or Ruby
+%Hardware design and debug experience
+I've also been tasked with circuit design and testing, using tools like oscilloscopes to analyse waveforms and debug the circuit.
+
+As an individual I have had a track record of being enthusiastic while being even keeled. 
+I am proavtive in bridging gaps in my knowledge and skills, and am motivated by learning new things.
+As an engineering student, I have been subject to many short-term as well as term-length projects.
+In many of these projects, I have had to present the results of the project before my peers and instructors.
+Through the course of my time as a student, I have had to write many essays, proposals, reports and memoranda, giving me a deal of experience in writing.
+Thank you for taking the time to read this cover letter.
+I look forward to further discussing my qualifications with you in person.
+
+*************************************************************************************************************************************************
+
+Ericsson is a global force in the telecommunications industry. Our office in Burnaby, BC is currently looking for a talented Software Developer to 
+join our Platform as a Service: Network Synchronization team. This team is involved in developing IEEE1588/ Precision Time Protocol (PTP) and 
+Synchronous Ethernet software for Ericsson’s Mobile Backhaul solutions.
+
+In this role, you will work on leading edge projects for the Smart Services Router. You’ll have a wide scope, and depth, of constantly growing 
+responsibilities including full life-cycle development.
+
+The ideal candidate should have a strong interest in developing embedded software, a passion for solving complex problems and a team player attitude 
+with a solid work ethic. This person will be one of several developers working within a team of experienced software, hardware and test engineers in 
+an agile development environment. The selected graduate candidate will receive mentoring and coaching. This role will contribute to the design, 
+development, debugging, integration and support of system timing and synchronization software features resident on the Smart Services Router.
+
+With a backplane capacity of 16 Tbps and a non-blocking switching fabric, the Smart Services Router can scale to the bandwidth needs of even the most 
+demanding applications, while protecting low-bandwidth, low-latency applications from getting crowded out. State-of-the-art signaling capacities 
+address the growing control overhead that comes with an ever-increasing number of connected end-user devices. A variety of network functions – 
+ranging from subscriber management to policy control and mobility support – enables a fast and simple introduction of new end-user services, 
+maximum end-user experience, and optimal use of network resources. Sophisticated availability and resilience capabilities, encompassing 
+both hardware and software, minimize the probability and the potential impact of a failure.
+
+As a consolidated platform for both fixed and mobile network functions, the Smart Services Router realizes complete convergence between network 
+access types. Its proven and renowned operating system provides functional convergence complemented by a coherent interface for all network functions. 
+This simplifies operations and reduces the cost of ownership
+
+Job Overview (includes but not limited to):
+
+Development of C/C++based embedded systems;
+Work collaboratively with development test, early & regularly, to ensure feature robustness;
+Create feature specifications, design documents, and unit and integration test plans;
+Perform design and code reviews;
+Demonstrate good judgment in selecting methods and techniques for obtaining solutions;
+Pro-active communication inside product team.
+
+Responsibilities
+
+The successful candidate may be involved in developing software for SyncE and PTP application, device drivers, and bringing up kernels on new hardware for Ericsson's Smart Services Router product family.
+
+Design, develop, test and maintain new and existing embedded software;
+Design and develop unit tests, tools and scripts to aid embedded software development ;
+Evaluate system performance and help with performance tuning for Ericsson systems;
+Work on Linux kernel and device drivers for multiple target architectures (e.g. PPC, x86, MIPS etc);
+Write design specifications and other supporting documents as needed for your projects;
+Participate in requirements gathering, design and code reviews;
+Work with SQA engineers to help develop test plans, and test cases for delivered features and debug test issues;
+Diagnose, fix and resolve problem reports filed by QA and customers.
+
+Skills & Competencies
+
+Completed Bachelor's degree in Computer Engineering, Software Engineering, Computer Sciences or relevant engineering field;
+Excellent English verbal and written communication skills is essential.
+
+The successful candidate will possess the following:
+
+Proficiency in C/C++ development for embedded systems;
+Proficiency in using compilers, linkers, emulators, debugging tools and revision control tools;
+Embedded Linux or real-time operating systems and device drivers experience;
+Knowledge of embedded processor architectures such as PPC, x86 and MIPS;
+Excellent analytical and problem-solving skills ;
+Passion and commitment for completing projects on time;
+Capable of working independently, within a group and with remote teams. 
+
+Desired skills:
+
+Experience with scripting languages such as Python or Ruby
+Knowledge of IEEE1588/PTP and Synchronous Ethernet
+Knowledge of Network Processors such as NP-4
+Virtualization Machine Software such as Xen Hypervisor
+Hardware design and debug experience
+Familiar with full product development life-cycle for embedded systems
+Experience in agile development (Scrum, XP, Feature Driven Development and Test Driven Development)
+
+*Please note all roles at Ericsson’s Vancouver site are subject to US Export Compliance regulations.
+
+DISCLAIMER: The above statements are intended to describe the general nature and level of work being performed by employees assigned to this 
+classification. They are not intended to be construed as an exhaustive list of all responsibilities, duties and skills required of employees 
+assigned to this position. Therefore employees assigned may be required to perform additional job tasks required by the manager.
+
+Primary country and city: Canada (CA) || British Columbia || Burnaby || Consulting&SysInt IT; ProdMgt; R&D SalesStratMkt&ComMgt ServEng; 
+SharedServ; Stud&YP Supply&Log

@@ -1,0 +1,72 @@
+Sierra wireless
+
+421-2960 Princess Crescent,
+Coquitlam, BC V3B 7P2
+
+13th August 2014
+
+Sierra Wireless
+
+Re: Junior Firmware Engineer Position
+
+Dear Sir/Madam,
+
+I began my university education with the intention of working in the field of research and development. 
+This is because I am a firm believer that the surest way to positively impact our world is the creation of new technologies. 
+What keeps increasing this world's interconnectivity is the work of firms like yours, and the work of corporations like your push us into the future. 
+I believe that my programming and scripting skills, experience developing for embedded systems, and knowledge of microcontrollers 
+make me a good fit for this position.
+
+During my co-op position at UBC, I was tasked with the development of the code controlling a mini-MRI machine, which was controlled by an Arduino
+microcontroller, coded using the Arduino's own IDE using C/C++. I was again tasked with use of the Arduino during my work term with Epic 3D Tech,
+where it was used to control an automated 3D camera rig with stepper motors.
+In both these cases, it was required for the microcontroller to communicate with an external device, whether through the 2 pin UART to a Bluetooth
+transmitter/receiver or the USB pseudo-UART to a PC.
+All development involved the process of planning, analysis of behaviour, troubleshooting, debugging, and iteration. 
+In addition, each functional iteration was commited to a GIT repository for both accessibility from the network and backing up previous work for roll-backs.
+
+As an individual I have had a track record of being enthusiastic while being even keeled. 
+As an engineering student, I have been subject to many short-term as well as term-length projects.
+In many of these projects, I have had to present the results of the project before my peers and instructors.
+I am proactive in bridging gaps in my knowledge and skills, and am motivated by learning new things.
+Through the course of my time as a student, I have had to write many essays, proposals, reports and memoranda, giving me a deal of experience in writing.
+Thank you for taking the time to read this cover letter.
+I look forward to further discussing my qualifications with you in person.
+
+Regards,
+Daniel Hon Kit Chong
+
+******************************************************************************************************************************************************
+
+Junior Firmware Engineer
+
+Overview	
+
+You want to create breakthrough wireless communication products, we can give you the opportunity to challenge yourself - and change the world.
+
+Responsibilities	
+We are currently looking for a junior or intermediate Firmware engineer to work on the development of next generation wireless communication products. 
+Responsibilities will include reviewing requirements, embedded software design, coding, unit testing, debugging, system and network level testing.
+
+Requirements	
+•Good verbal and written communication skills
+•Experience in embedded software development using the C programming language. 
+•Previous experience working with data communications and embedded multi-threaded operating systems
+•Able to work in a fast paced team oriented environment
+•An excellent problem solver with systematic debugging skills 
+•Experience working on large software code bases with many developers contributing.
+•Experienced in using software debugging tools such as debuggers & emulators
+•Minimum of a BS degree in electrical engineering, computer software engineering, or a related discipline. 
+
+Knowledge in one or more the following areas is desired, but not required
+•Previous experience developing products that use Wireless WAN protocols such as LTE, WCDMA, CDMA and GPRS/EDGE
+•Familiar with 3gpp and 3gpp2 protocol specifications
+•Familiar with embedded driver development such as USB, UART, GPIO, I2C, or audio. 
+•Familiar with memory management systems, file systems, and memory protection algorithms. 
+•Familiar with ARM processor architecture and tool chains
+•Familiar with TCP/IP suite of protocols. 
+•Familiar with GPS operation and control
+•Familiar with Embedded Linux programming and Linux device drivers
+•Familiar with low level Android programming
+•Familiar with microcontroller and RF hardware operation
+•Familiar with source code control systems such as SVN and GIT

@@ -1,0 +1,180 @@
+\documentclass[letterpaper]{article}\usepackage[margin=0.5in]{geometry}
+%\usepackage{graphicx}
+\begin{document}
+
+\normalsize
+\flushleft
+
+\begin{minipage}[t]{0.48\textwidth}
+\huge{\textbf{Daniel Hon Kit Chong}} \\ %center and resize this in future
+\Large{\textbf{Electrical Engineering Graduate}}
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.48\textwidth}
+\begin{flushright}
+\begin{normalsize}
+e-mail Address: staltitia@yahoo.com\\
+Mobile Number: 778-554-0903
+\end{normalsize}
+\end{flushright}
+\end{minipage}
+\rule{\textwidth}{1pt}
+
+\vspace{10 mm}
+\Large{\textbf{TECHNICAL SKILLS}} 
+\normalsize
+\vspace{2 mm}
+\center
+\begin{tabular*}{\textwidth}{@{\extracolsep{\fill} } l  l  l }
+		\large\textbf{Electrical} & \large\textbf{Software} & \large\textbf{Coding}\\
+		\hline
+		& & \\
+		Multimeter & MATLAB & C \\
+		Breadboard & Quartus II & C++ \\
+		Oscilloscope & Modelsim & Python \\
+		Soldering & Microsoft Office & VHDL \\
+		Digital/Logic circuit design & AutoCAD & ASM (NIOS II/8052) \\
+		Circuit Analysis & KLayout & \\
+\end{tabular*}
+\flushleft
+
+\vspace{5 mm}
+\Large\textbf{CO-OP EXPERIENCE}
+\normalsize
+
+\vspace{5 mm}
+\textbf{Honda Research Institute - Japan \hfill January 2013 - August 2013}	\\					Psychophysics Experiment Software Developer
+\begin{itemize}
+\itemsep0em
+\item
+	Developed experiment programs that provides audio-visual stimulus, records subject responses and saves results into a .csv
+\item
+	Built program to calculate subject's head position using OpenCV and spherical markers
+\item
+	Wrote MATLAB script to perform statistical analysis and plot graphs of multiple subjects for comparison
+\item
+	Tested hypotheses by performing experiments on multiple subjects in controlled environments
+\item
+	Presented findings before research staff upon completion of the work term
+\end{itemize}
+	
+\vspace{5 mm}
+\textbf{Epic 3D Tech \hfill May 2012 - August 2012} \\
+Embedded Systems Engineer
+\begin{itemize}
+\itemsep0em
+	\item
+	Developed an Arduino program to control four stepper motors that move a two camera rig for automated 3D filming
+	\item
+	Wrote algorithm to convert physical position and angles to stepper motor steps based upon the physical dimensions of the camera rig
+	\item
+	Designed calibration and fail safe system using micro-switches and H-bridge circuit, and PCB to power the stepper motor
+	\item
+	Built control interface Android application that communicates with the Arduino micro-controller via a bluetooth module
+	\item
+	Documented and commented code written to allow for future development and improvement of the programs
+\end{itemize}
+
+\vspace{5 mm}
+\textbf{UBC, Department of Physics and Astronomy \hfill September 2011 - December 2011} \\
+PHYS 102 MRI Software Developer
+\begin{itemize}
+\itemsep0em
+	\item
+	Developed a server in C++ for an Arduino micro-controller to accept instructions according to a set protocol through a serial port
+	\item
+	Programmed a client in C to convert instructions in text format into the set protocol and send it over the serial port to the Arduino server, and to receive the data collected
+	\item
+	Built a graphic user interface (GUI) in Python to streamline the use of the C program, graph the data collected, and reconstruct the image of the sample being scanned by the MRI machine
+	\item
+	Wrote roughly 5000 lines of code across 3 programming languages throughout the course of the work term 
+	\item
+	Documented the code and wrote the instruction manual for the use of the program
+	\item
+	Designed templates for the gradient coils used to induce a magnetic gradient field for the imaging
+\end{itemize}
+	
+\vspace{10 mm}
+\Large{\textbf{TECHNICAL PROJECTS}}
+\normalsize
+
+\vspace{5 mm}
+\textbf{Photonics System Modelling \hfill January 2014 - April 2014}
+
+\begin{itemize}
+\itemsep0em
+	\item
+	Designed silicon-based Mach-Zehnder Interferometers (MZI) and Fabry-Perot (FP) Interferometers using KLayout, a layout editor for .gds files
+	\item
+	Constructed numerical model in MATLAB for the ideal behaviour of fabricated photonics device
+	\item
+	Measured frequency response of devices using apparatus measuring output intensity during an input frequency sweep
+	\item
+	Adjusted model to match measured response of each respective device by varying device dimensions variables of MATLAB model
+	\item
+	Inferred physical device dimensions based upon adjustments to model
+\end{itemize}	
+
+\vspace{5 mm}
+\textbf{SEM Control System \hfill September 2013 - April 2014}
+
+\begin{itemize}
+\itemsep0em
+	\item
+	Reverse engineered working scanning electron microscope (SEM) using documentation and schematics
+	\item
+	Designed system to interface analog circuitry to digital I/O using ADCs and DACs
+	\item
+	Developed control system using VHDL on an Altera DE II to read input from ADCs, provide output to DACs and communicate with a PC attached via serial
+	\item
+	Built GUI with a Python backend to allow user to control the SEM's current state, and to reconstruct images generated by the SEM
+\end{itemize}
+
+\vspace{5 mm}
+\textbf{VHDL Implementation of Basic Computer \hfill January 2012 - April 2012}	
+
+\begin{itemize}
+\itemsep0em
+\item	
+Designed a basic computer that can compute the result of arithmetic operations upon values stored within registers, and store the result in a register
+\item	
+Programmed a Cyclone II FPGA using VHDL to make a basic computer consisting of a register bank, data path, arithmetic logic unit (ALU), and a finite state machine (FSM)
+\item	
+Planned a system where a series of switches control the operations of the computer, including type of operation, origin and destination registers, and input values, akin to an ASM instruction
+\item	
+Built a finite-state machine to control the execution of more complex operations, which require multiple steps to complete
+
+\end{itemize}
+
+\vspace{5 mm}
+\textbf{Rover \hfill April 2011}							
+\begin{itemize}
+\itemsep0em
+	\item
+	Built a rover with a metal chassis, two DC motors, an 8052 microcontroller and three inductors capable of following a wire by detecting the AC current flowing through it
+	\item
+	Wired the rover's 8052 microcontroller to interpret the inductor's induced voltage with distance and orientation between the rover and the path indicated by the wire
+	\item
+	Programmed the microcontroller in C using a small device C compiler to detect and count wires perpendicular to the main track, interpret them as instructions which were then executed
+	\item
+	Worked in a group on the hardware, planning the algorithm and the writing of the code
+	\item
+	Tested and troubleshot the code written by running the rover on the track, observing behaviour and determining modifications required
+\end{itemize}
+	
+\vspace{10 mm}
+\Large{\textbf{EDUCATION}} 
+\normalsize
+\textbf{
+\flushleft
+University of British Columbia
+\hfill
+	September 2010 - May 2014
+\\
+	Bachelor of Applied Science - Electrical Engineering \\ 
+	\hspace{10 mm}
+	Nanotechnology \& Microsystems with Cooperative Education
+}
+%\section{ACTIVITIES AND INTERESTS}
+
+\end{document}

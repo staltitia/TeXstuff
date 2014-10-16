@@ -1,0 +1,42 @@
+421-2960 Princess Crescent,
+Coquitlam, BC V3B 7P2
+
+8th August 2014
+
+MDA Corporation
+
+Re: New Graduate Position
+
+Dear Sir/Madam,
+
+I began my university education with the intention of working in the field of research and development. This is because I am a firm believer that the 
+surest way to positively impact our world is the creation of new technologies. Your corporation's work on the Canadarm is a shining example of the type
+of work that needs to be done to bring us into the world of tomorrow. I believe that my programming and scripting skills, experience developing 
+functional systems, and knowledge MATLAB, image processing, and GUI development make me a good fit for this position.
+
+During my co-op position at UBC, I was tasked with the development of the code controlling a mini-MRI machine, which was written in C, C++ and Python.
+The work involved creating a GUI using PyGTK, which is an open-source toolkit. The position also required work to be done in Gentoo, a Linux-based OS. 
+During my work term at Honda Research Institute, one task I completed was the detection of an object's position in space, which I achieved by applying
+a spherical marker and using OpenCV to process the input image.
+Another task I was assigned at Honda was the processing of data collected, which was done in MATLAB.
+
+As an individual I have had a track record of being enthusiastic while being even keeled. 
+As an engineering student, I have been subject to many short-term as well as term-length projects.
+In many of these projects, I have had to present the results of the project before my peers and instructors.
+I am proactive in bridging gaps in my knowledge and skills, and am motivated by learning new things.
+Through the course of my time as a student, I have had to write many essays, proposals, reports and memoranda, giving me a deal of experience in writing.
+Thank you for taking the time to read this cover letter.
+I look forward to further discussing my qualifications with you in person.
+
+Regards,
+Daniel Hon Kit Chong
+
+Requirements (experience/skills):
+Bachelor's degree in Computer Science, Computer or Electrical Engineering, Engineering Physics, Physics or Applied Math.
+Strong working knowledge of C/C++ and/or Java; MATLAB, VC++ and MFC an asset.
+Experience developing in a UNIX environment.
+Strong understanding of software development lifecycle.
+Experience with AI, image processing, remote sensing, GUI development or real time systems an asset.
+Experience working in a project environment.
+Excellent written and verbal communication and interpersonal skills.
+Previous co-op experience an asset.

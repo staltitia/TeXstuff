@@ -1,0 +1,48 @@
+421-2960 Princess Crescent,
+Coquitlam, BC V3B 7P2
+
+8th August 2014
+
+PMC Sierra
+
+Re: Product Engineer Position
+
+Dear Sir/Madam,
+
+I began my university education with the intention of working in the field of research and development. This is because I am a firm believer that the 
+surest way to positively impact our world is the creation of new technologies. I believe that my programming and scripting skills, experience 
+developing functional systems, and knowledge of semiconductor and RF fundamentals make me a good fit for this position.
+
+In all my co-op positions I have been required to learn and utilise new hardware and software. For instance, at my first co-op position, I learned to
+to use the Arduino micro-controller, the Linux operating system and various Python modules simultaneously. At Epic 3D Tech, I have been tasked with 
+the development of control modules. The development involved the process of planning, analysis of behaviour, troubleshooting, debugging, and iteration. 
+I have also taken a university course pertaining to RF antennae and propagation, giving me the knowledge of the RF fundamentals.
+
+As an individual I have had a track record of being enthusiastic while being even keeled. 
+I am proavtive in bridging gaps in my knowledge and skills, and am motivated by learning new things.
+Through the course of my time as a student, I have had to write many essays, proposals, reports and memoranda, giving me a deal of experience in writing.
+Thank you for taking the time to read this cover letter.
+
+Regards,
+Daniel Hon Kit Chong
+
+
+Requirements
+
+- Working with a cross-functional team to ramp new semiconductor products to production
+- Planning and implementing characterization tests on new high-speed (>10GHz) and RF mixed-signal semiconductor devices using state-of-the art test equipment and dedicated test hardware.    These characterization tests will quantify the performance of our cutting edge mixed-signal IP to correlate performance to simulation over operating conditions and manufacturing variances.
+- Developing custom test hardware and test programs for high volume production testing.
+
+Qualifications:
+
+- Bachelor’s Degree in Electrical Engineering or Engineering Physics 
+- Excellent analytical and debugging skills and the ability to proactively solve issues
+- Proven ability to learn and adapt to new methodologies and technologies
+- Excellent verbal and written communication skills in English 
+- Excellent interpersonal and teamwork skills
+- Strong scripting and programming skills.  Experience using C, C++, Tcl and Perl
+- Thorough knowledge of circuit theory and high speed (>10GHz) signal fundamentals
+- Expertise in RF test fundamentals
+- Hardware experience of high speed digital and analog circuits in a lab or test environment
+- Knowledge of semiconductor fundamentals and CMOS circuits
+- Demonstrated ability to meet schedules

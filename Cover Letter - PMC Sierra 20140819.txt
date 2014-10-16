@@ -1,0 +1,45 @@
+421-2960 Princess Crescent,
+Coquitlam, BC V3B 7P2
+
+19th August 2014
+
+PMC Sierra
+
+Re: Product Verification Engineer position
+
+Dear Sir/Madam,
+
+I began my university education with the intention of working in the field of research and development. This is because I am a firm believer that the 
+surest way to positively impact our world is the creation of new technologies. I believe that my programming and scripting skills, experience 
+using Modelsim, and knowledge of VHDL make me a good fit for this position.
+
+While developing the VHDL modules for my final year project and other projects involving the DE II, all modules are tested using Modelsim. For each 
+module, a testbench is written, and the waveform is inspected to ensure that the behaviour is as per design. 
+When the behaviour varied from expectation, the code was debugged and retested.
+
+As an individual I have had a track record of being enthusiastic while being even keeled. 
+I am proavtive in bridging gaps in my knowledge and skills, and am motivated by learning new things.
+As an engineering student, I have been subject to many short-term as well as term-length projects.
+In many of these projects, I have had to present the results of the project before my peers and instructors.
+Through the course of my time as a student, I have had to write many essays, proposals, reports and memoranda, giving me a deal of experience in writing.
+Thank you for taking the time to read this cover letter.
+I look forward to further discussing my qualifications with you in person.
+
+Regards,
+Daniel Hon Kit Chong
+
+• Develop, document, and execute verification test plans to verify complex digital integrated circuits at the block, subsystem or device level ( 100K to 10M+ gates), which are coded in System Verilog/Verilog/VHDL
+• Design, implement and maintain verification testbenches and bus-functional modes in Specman or System Verilog using best-in-class verification methodologies.
+• Write and execute testcases according to the verification test plans to verify these complex designs.  Track down bugs and technical problems and work with the design team to ensure timely resolution.
+• Communicate regularly with the local and global design and verification resolve issues, communicate status and solve technical problems. 
+• Read and understand applicable communication protocol standards.
+
+Qualifications:
+
+• Excellent analytical and debugging skills and the ability to proactively solve issues.
+• Excellent teamwork and time management skills and the ability to work under pressure.
+• Excellent verbal and written communication skills in English.
+• Experience using Verilog/VHDL is required and experience with using Specman/System Verilog is preferred.
+• Working knowledge with verification tools such as Cadence NC-Sim, waveform viewers, and other similar tools.
+• Working knowledge of ASIC design processes (design, verification, implementation, layout) and flows.
+• Knowledge of SAS/SATA protocols is an asset
